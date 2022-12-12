@@ -1,6 +1,6 @@
 This project is a custom Shopify Theme for Online Store 2.0 using Alpine.js and TailwindCSS
 
-| Sections           |                              |
+| Status             | Sections                     |
 | ------------------ | ---------------------------- |
 | :heavy_check_mark: | Installing Development Tools |
 | :heavy_check_mark: | Navigational Bar             |
@@ -14,4 +14,3 @@ This project is a custom Shopify Theme for Online Store 2.0 using Alpine.js and 
 | :heavy_check_mark: | Pages (About & Contact)      |
 | :heavy_check_mark: | Advanced Product Page        |
 | :heavy_check_mark: | Search Page                  |
-| :hourglass:        | More lessons coming          |
