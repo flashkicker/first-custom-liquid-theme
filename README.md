@@ -1,3 +1,5 @@
+# About
+
 This project is a custom Shopify Theme for Online Store 2.0 using Alpine.js and TailwindCSS
 
 | Status             | Sections                     |
